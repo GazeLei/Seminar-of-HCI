@@ -1,2 +1,3 @@
 # Seminar-of-HCI
-Share and Record some articles
+Resources for Seminar of HCI
+
